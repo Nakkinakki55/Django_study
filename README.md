@@ -6,7 +6,7 @@ https://www.sejuku.net/blog/9014<br />
 
 【Django入門】あなたのパソコンにDjangoをインストール！<br />
 https://www.sejuku.net/blog/28235<br />
-表示するときは「http://localhost:8000/test/」を使うべし
+表示するときは 「http://localhost:8000/test/」 を使うべし
 
 【Django入門】viewsを使ってページを表示させよう<br />
 https://www.sejuku.net/blog/25952<br />
